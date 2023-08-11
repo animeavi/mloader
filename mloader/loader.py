@@ -23,9 +23,9 @@ log = logging.getLogger()
 MangaList = Dict[int, Set[int]]  # Title ID: Set[Chapter ID]
 
 AUTH_PARAMS = {
-    "app_ver": "1.8.3",
+    "app_ver": "1.9.11",
     "os": "ios",
-    "os_ver": "15.5",
+    "os_ver": "16.6",
     "secret": "f40080bcb01a9a963912f46688d411a3",
 }
 
